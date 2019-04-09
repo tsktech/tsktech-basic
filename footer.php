@@ -15,10 +15,10 @@
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'tsktech-basic' ) ); ?>">
+			<a href="<?php echo esc_url( __( 'https://tskamath.com/', 'tsktech-basic' ) ); ?>">
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'tsktech-basic' ), 'WordPress' );
+				printf( esc_html__( 'Proudly powered by %s', 'tsktech-basic' ), 'tskamath technologies pvt ltd' );
 				?>
 			</a>
 			<span class="sep"> | </span>
